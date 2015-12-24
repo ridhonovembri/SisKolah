@@ -1,2 +1,2 @@
 # SisKolah
-SISTEM INFORMASI SEKOLAH xx yy zz rr
+SISTEM INFORMASI SEKOLAH xx yy zz rr ee
