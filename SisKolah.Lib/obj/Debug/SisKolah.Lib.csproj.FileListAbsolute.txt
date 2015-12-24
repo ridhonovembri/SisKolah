@@ -1,0 +1,5 @@
+G:\My oprekan\MyProject\SisKolah\SisKolah.Lib\bin\Debug\SisKolah.Lib.dll
+G:\My oprekan\MyProject\SisKolah\SisKolah.Lib\bin\Debug\SisKolah.Lib.pdb
+G:\My oprekan\MyProject\SisKolah\SisKolah.Lib\obj\Debug\SisKolah.Lib.csprojResolveAssemblyReference.cache
+G:\My oprekan\MyProject\SisKolah\SisKolah.Lib\obj\Debug\SisKolah.Lib.dll
+G:\My oprekan\MyProject\SisKolah\SisKolah.Lib\obj\Debug\SisKolah.Lib.pdb
